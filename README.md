@@ -8,4 +8,8 @@ Basic MVP:
 Planned features:
 * Basic login/logout
 * Tracking streak
-* Elo rating system
+* Elo rating system + Elo rating plots
+* Endless mode vs 2 minutes mode
+* Question history
+* Randomize questions every day according to elo
+* Full mock gmat test
